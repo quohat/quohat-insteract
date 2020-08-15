@@ -10,6 +10,8 @@ Tương tác với bài viết trên **Instagram** theo *#hashtag*
 - Chuyển sang ảnh tiếp theo.
 
 ### Hướng dẫn sử dụng
+- Tải `quohat-insteract.py` và `chromedriver` xuống.
+
 - Mở tệp `quohat-insteract.py`.
 
 - Chỉnh sửa `my_username` và `my_password` thành tài khoản Instagram của bạn.
@@ -19,6 +21,8 @@ Tương tác với bài viết trên **Instagram** theo *#hashtag*
 - Tải `chromedriver` kèm theo trong repo và chỉnh sửa đường dẫn đến nó ở dòng `browser = webdriver.Chrome(executable_path='./chromedriver')`. (Chúng tôi đặt nó trong cùng thư mục với tệp `quohat-insteract.py` nên dễ dàng dùng *đường dẫn tương đối*.)
 
 May thay, những cái cần sửa nhất nằm ở đầu tệp. Nhưng tiếng Anh và sự nhạy bén của bạn phải đủ tốt để tìm thấy những chỗ **bạn** cần sửa và sửa đúng cú pháp ;)
+
+- Dùng IDE hoặc editor ưa thích của bạn để chạy. Với console hoặc terminal, sử dụng lệnh `python /pathtofile/quohat-insteract.py`.
 
 ### Yêu cầu cài đặt
 
