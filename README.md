@@ -28,6 +28,8 @@ May thay, những cái cần sửa nhất nằm ở đầu tệp. Nhưng tiếng
 
 ### Bản quyền
 
+Chúng tôi không lưu lại và sử dụng *bất kỳ* thông tin nào của bạn.
+
 Tệp `quohat-insteract.py` được viết dưới bản quyền Mozilla Public License Version 2.0. Xem chi tiết ở tệp `LICENSE` trong repo.
 
 <p align="center">
