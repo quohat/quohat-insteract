@@ -24,11 +24,13 @@ May thay, những cái cần sửa nhất nằm ở đầu tệp. Nhưng tiếng
 
 - Dùng IDE hoặc editor ưa thích của bạn để chạy. Với console hoặc terminal, sử dụng lệnh `python /pathtofile/quohat-insteract.py`.
 
+> Lưu ý rằng kích thước của sổ của `chromedriver` có thể ảnh hưởng đến thuật toán.
+
 ### Yêu cầu cài đặt
 
 - [Python 3](https://www.python.org/)
 - Package [selenium](https://pypi.org/project/selenium/) 3.141.0
-- chromedriver kèm theo trong repo. (Xin cảm ơn Google và xin lỗi vì chúng tôi quên mất tên phiên bản.)
+- chromedriver (84.0.4147.125) kèm theo trong repo. (Xin cảm ơn Google.)
 
 ### Bản quyền
 
