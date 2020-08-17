@@ -10,7 +10,7 @@ Tương tác với bài viết trên **Instagram** theo *#hashtag*
 - Chuyển sang ảnh tiếp theo.
 
 ### Hướng dẫn sử dụng
-- Tải `quohat-insteract.py` và `chromedriver` (cho Linux) hoặc `chromedriver.exe` (cho Windows) trong repo xuống.
+- Tải `quohat-insteract.py` và `chromedriver` (cho Linux) hoặc `chromedriver.exe` (cho Windows) hoặc `chromedriver_mac64.zip` (cho Mac, cần giải nén để có tệp `chromedriver`) trong repo xuống.
 
 - Mở tệp `quohat-insteract.py`.
 
