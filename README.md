@@ -10,7 +10,7 @@ Tương tác với bài viết trên **Instagram** theo *#hashtag*
 - Chuyển sang ảnh tiếp theo.
 
 ### Hướng dẫn sử dụng
-- Tải `quohat-insteract.py` và `chromedriver` trong repo xuống.
+- Tải `quohat-insteract.py` và `chromedriver` (cho Linux) hoặc `chromedriver.exe` (cho Windows) trong repo xuống.
 
 - Mở tệp `quohat-insteract.py`.
 
@@ -18,7 +18,7 @@ Tương tác với bài viết trên **Instagram** theo *#hashtag*
 
 - Chỉnh sửa `hashtag_list` và `n` (số lượng ảnh ở mỗi hashtag) theo ý của bạn.
 
-- Chỉnh sửa đường dẫn đến `chromedriver` ở dòng `browser = webdriver.Chrome(executable_path='./chromedriver')`. (Chúng tôi đặt nó trong cùng thư mục với tệp `quohat-insteract.py` nên dễ dàng dùng *đường dẫn tương đối*.)
+- Chỉnh sửa đường dẫn đến chromedriver ở dòng `browser = webdriver.Chrome(executable_path='./chromedriver')`. (Chúng tôi đặt nó trong cùng thư mục với tệp `quohat-insteract.py` nên dễ dàng dùng *đường dẫn tương đối*.)
 
 May thay, những cái cần sửa nhất nằm ở đầu tệp. Nhưng tiếng Anh và sự nhạy bén của bạn phải đủ tốt để tìm thấy những chỗ **bạn** cần sửa và sửa đúng cú pháp ;)
 
